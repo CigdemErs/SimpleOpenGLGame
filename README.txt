@@ -15,6 +15,3 @@ Features
 
 - Coins are 5 points and each jump is 1 point.
 
-
-Çiğdem ERŞEPÇİLER
-151101024
